@@ -1,6 +1,6 @@
 # talk-to-DC
 This project is aimed to get an appointment from Deputy commissioner, request for an appointment and also show Deputy commissioner will
-stay or not in hisor her office from the user end.<br>
+stay or not in his or her office from the user end.<br>
 There are some view of my project:<br>
 
 Splashscreen<br>
