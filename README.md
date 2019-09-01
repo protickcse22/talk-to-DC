@@ -21,7 +21,7 @@ Appoinment request form<br>
 <img src="images/requestform.jpg" width="400px" height="600px"><br><br>
 request approve or reject view<br>
 <img src="images/requestapp.jpg" width="400px" height="600px"><br><br>
-Add DC stay or not
+Add DC stay or not in Office<br>
 <img src="images/tabfordccond.jpg" width="400px" height="600px"><br><br>
 
 
