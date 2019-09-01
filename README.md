@@ -4,7 +4,7 @@ stay or not in hisor her office from the user end.<br>
 There are some view of my project:<br>
 
 Splashscreen<br>
-<img src="images/splash.jpg" width="300px" height="300px"><br><br>
+<img src="images/splash.jpg" width="400px" height="700px"><br><br>
 Login view<br>
 <img src="images/login.jpg"><br><br>
 Dashboard<br>
